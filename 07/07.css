@@ -1,0 +1,9 @@
+.sp-left-1 + .sp-left-1 {
+    margin-left: 20px;
+    background-color: yellowgreen;
+}
+
+.sp-left-2 ~ .sp-left-2 {
+    margin-left: 20px;
+    background-color: yellow;
+}
