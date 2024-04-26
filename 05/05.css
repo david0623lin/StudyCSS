@@ -1,0 +1,11 @@
+.bg-color {
+    background-color: red;
+}
+
+div.bg-color {
+    background-color: yellow;
+}
+
+div.bg-color.bg-color-2 {
+    background-color: blue;
+}
