@@ -1,0 +1,19 @@
+/* 所有使用此類的都會套用 */
+.bg-color {
+    background-color: yellow;
+}
+
+/* 所有使用此類的 Div 都會套用 */
+.bg-color div {
+    background-color: blue;
+}
+
+/* 所有使用此類下一層的 Div 都會套用 */
+.bg-color > div {
+    background-color: red;
+}
+
+/* 所有使用此類下兩層的 Div 都會套用 */
+.bg-color > div > div {
+    background-color: yellowgreen;
+}
