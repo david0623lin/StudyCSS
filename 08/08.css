@@ -1,0 +1,9 @@
+.bg-color {
+    background-color: yellow;
+}
+
+.bg-color:hover {
+    background-color: yellowgreen;
+}
+
+/* pseudo-classes 完整功能文件: https://developer.mozilla.org/zh-TW/docs/Web/CSS/Pseudo-classes */
